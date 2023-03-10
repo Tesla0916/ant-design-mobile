@@ -1,5 +1,5 @@
 {
-  "name": "antd-mobile",
+  "name": "antd-mobile-wd",
   "version": "5.28.1",
   "scripts": {
     "start": "dumi dev",
